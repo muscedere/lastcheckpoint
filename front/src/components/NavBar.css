@@ -1,0 +1,10 @@
+.red {
+    background-color: rgb(90, 74, 74) !important;
+}
+
+.Title {
+    color:White !important;
+    font-size: 2em;
+    margin-top:10px !important;
+    text-shadow: rgb(75, 68, 68) 2em 0.1em 0.2em;
+}

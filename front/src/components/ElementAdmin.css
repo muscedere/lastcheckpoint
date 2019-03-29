@@ -1,0 +1,12 @@
+.ElementAdmin {
+  box-shadow: 8px 8px 12px #aaa;
+  background-color: white;
+  margin:40px;
+  border-radius: 20px;
+}
+
+.ElementItem {
+  width :400px;
+  margin : 50px;
+  
+}

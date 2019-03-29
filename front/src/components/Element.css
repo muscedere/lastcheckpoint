@@ -1,0 +1,9 @@
+.Element {
+  box-shadow: 8px 8px 12px #aaa;
+  color:black;
+  background-color:white;
+  /* background-image:url(./images/cinema2.jpg);*/
+  background-repeat:no-repeat;
+  border-radius: 20px;
+  margin : 40px;
+}

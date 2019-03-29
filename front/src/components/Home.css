@@ -1,0 +1,9 @@
+.color {
+    background-color: rgb(90, 74, 74) !important;
+    color :white;
+}
+
+.TextMovie {
+    font-weight:bold;
+    margin-top : 0px;
+}

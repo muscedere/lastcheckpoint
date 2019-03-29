@@ -1,0 +1,23 @@
+.CardList {
+  background-image:url(./images/cinefond.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.TextTop {
+  color:white; 
+  font-size: 3em;
+  text-shadow: grey 0.1em 0.1em 0.2em;
+  padding-top: 45px;
+  padding-bottom: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+.flex-container {
+	display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px;
+}
+.KatPart {
+  background-color: #f5f5ef;
+}
